@@ -1,5 +1,5 @@
 let resumeData = {
-    "imagebaseurl":"https://shauryaagarwal.github.io/",
+    "imagebaseurl":"https://shauryaagarwal.github.io/portfolio",
     "name": "Shaurya Agarwal",
     "role": "computer science student at Georgia Tech",
     "linkedinId":"linkedin.com/in/shauryaagarwal1/",
@@ -24,7 +24,7 @@ let resumeData = {
       ],
     "aboutme":"Versatile undergraduate student able to quickly learn and handle varied responsibilities. Demonstrates a strong work ethic and creative ability. Passion lies in AI and machine learning.",
     "address":"USA",
-    "website":"https://shauryaagarwal.github.io",
+    "website":"https://shauryaagarwal.github.io/portfolio",
     "education":[
       {
         "UniversityName":"Georgia Institute of Technology",
@@ -66,7 +66,7 @@ let resumeData = {
         "skillname":"CSS"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"React.js"
       }
     ],
     "portfolio":[
