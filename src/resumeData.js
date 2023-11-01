@@ -1,10 +1,10 @@
 let resumeData = {
     "imagebaseurl":"https://shauryaagarwal.github.io/react-portfolio",
     "name": "Shaurya Agarwal",
-    "role": "computer science student at Georgia Tech",
+    "role": "Computer Science student at Georgia Tech",
     "linkedinId":"linkedin.com/in/shauryaagarwal1/",
     "skypeid": "Your skypeid",
-    "roleDescription": "I am seeking opportunities to apply the technical fields I am passionate about, artificial intelligence and machine learning, in dynamic project environments.",
+    "roleDescription": " I am seeking opportunities to apply the technical fields I am passionate about, artificial intelligence and machine learning, in dynamic project environments.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -17,14 +17,14 @@ let resumeData = {
           "className":"fa fa-github"
         },
         {
-          "name":"skype",
+          "name":"resume",
           "url":"https://drive.google.com/file/d/11npC068-OTLGPPg3T7kgNMhiVXNFRW5V/view?usp=sharing",
-          "className":"fa fa-twitter"
+          "className":"fa fa-file"
         }
       ],
     "aboutme":"Versatile undergraduate student able to quickly learn and handle varied responsibilities. Demonstrates a strong work ethic and creative ability. Passion lies in AI and machine learning.",
-    "address":"USA",
-    "website":"https://shauryaagarwal.github.io/react-portfolio",
+    "address":"",
+    "website":"",
     "education":[
       {
         "UniversityName":"Georgia Institute of Technology",
@@ -43,22 +43,34 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Indeca Group Inc",
+        "specialization":"Software Engineer Intern",
+        "MonthOfLeaving":"",
+        "YearOfLeaving":"2023",
+        "Achievements":"Full-Stack & Mobile Developer"
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"IMA360",
+        "specialization":"Software Engineer Intern",
+        "MonthOfLeaving":"",
+        "YearOfLeaving":"2023",
+        "Achievements":"Backend Developer"
       }
     ],
     "skillsDescription":"Your skills here",
     "skills":[
+      {
+        "skillname":"Java"
+      },
+      {
+        "skillname":"C"
+      },
+      {
+        "skillname":"Python"
+      },
+      {
+        "skillname":"JavaScript"
+      },
       {
         "skillname":"HTML5"
       },
@@ -66,7 +78,13 @@ let resumeData = {
         "skillname":"CSS"
       },
       {
-        "skillname":"React.js"
+        "skillname":"SQL"
+      },
+      {
+        "skillname":"React"
+      },
+      {
+        "skillname":"XML"
       }
     ],
     "portfolio":[

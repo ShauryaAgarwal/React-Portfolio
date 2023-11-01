@@ -355,6 +355,41 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
+.java {
+   width: 90%;
+   -moz-animation: css 2s ease;
+   -webkit-animation: css 2s ease;
+}
+.c {
+   width: 90%;
+   -moz-animation: css 2s ease;
+   -webkit-animation: css 2s ease;
+}
+.python {
+   width: 90%;
+   -moz-animation: css 2s ease;
+   -webkit-animation: css 2s ease;
+}
+.javascript {
+   width: 90%;
+   -moz-animation: css 2s ease;
+   -webkit-animation: css 2s ease;
+}
+.xml {
+   width: 90%;
+   -moz-animation: css 2s ease;
+   -webkit-animation: css 2s ease;
+}
+.sql {
+   width: 90%;
+   -moz-animation: css 2s ease;
+   -webkit-animation: css 2s ease;
+}
+.react {
+   width: 90%;
+   -moz-animation: css 2s ease;
+   -webkit-animation: css 2s ease;
+}
 
 @-moz-keyframes photoshop {
   0%   { width: 0px;  }
